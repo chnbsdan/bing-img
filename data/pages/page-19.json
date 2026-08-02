@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "date": "2024-07-07",
+      "copyright": "Fisgard Lighthouse, Esquimalt Harbor, Colwood, British Columbia, Canada (© davemantel/Getty Images)",
+      "jpg": "https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg",
+      "webp": "https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_UHD.jpg",
+      "thumb": "https://cn.bing.com/th?id=OHR.FisgardLighthouse_EN-US3880792118_400x240.jpg"
+    },
+    {
       "date": "2024-07-06",
       "copyright": "Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)",
       "jpg": "https://cn.bing.com/th?id=OHR.UbudBali_EN-US3541248173_UHD.jpg",
@@ -286,18 +293,11 @@
       "jpg": "https://cn.bing.com/th?id=OHR.HoneycombBee_EN-US2941694554_UHD.jpg",
       "webp": "https://cn.bing.com/th?id=OHR.HoneycombBee_EN-US2941694554_UHD.jpg",
       "thumb": "https://cn.bing.com/th?id=OHR.HoneycombBee_EN-US2941694554_400x240.jpg"
-    },
-    {
-      "date": "2024-05-26",
-      "copyright": "Village of Vernazza, Cinque Terre, Liguria, Italy (© Roberto Moiola/Sysaworld/Getty Images)",
-      "jpg": "https://cn.bing.com/th?id=OHR.VernazzaItaly_EN-US2643430613_UHD.jpg",
-      "webp": "https://cn.bing.com/th?id=OHR.VernazzaItaly_EN-US2643430613_UHD.jpg",
-      "thumb": "https://cn.bing.com/th?id=OHR.VernazzaItaly_EN-US2643430613_400x240.jpg"
     }
   ],
   "page": 19,
   "pageSize": 42,
-  "total": 2006,
+  "total": 2007,
   "totalPages": 48,
   "hasMore": true
 }

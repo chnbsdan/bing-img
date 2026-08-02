@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "date": "2022-02-06",
+      "copyright": "奥伊米亚康的冬天，俄罗斯 (© Alexandr Berdicevschi/Getty Images)",
+      "jpg": "https://cn.bing.com/th?id=OHR.Oymyakon_ZH-CN7758768574_UHD.jpg",
+      "webp": "https://cn.bing.com/th?id=OHR.Oymyakon_ZH-CN7758768574_UHD.jpg",
+      "thumb": "https://cn.bing.com/th?id=OHR.Oymyakon_ZH-CN7758768574_400x240.jpg"
+    },
+    {
       "date": "2022-02-05",
       "copyright": "漫天飞舞的黑脉金斑蝶，墨西哥 (© Sylvain Cordier/Minden Pictures)",
       "jpg": "https://cn.bing.com/th?id=OHR.MexicoMonarchs_ZH-CN7526758236_UHD.jpg",
@@ -286,18 +293,11 @@
       "jpg": "https://cn.bing.com/th?id=OHR.SnowBuntings_ZH-CN6554424742_UHD.jpg",
       "webp": "https://cn.bing.com/th?id=OHR.SnowBuntings_ZH-CN6554424742_UHD.jpg",
       "thumb": "https://cn.bing.com/th?id=OHR.SnowBuntings_ZH-CN6554424742_400x240.jpg"
-    },
-    {
-      "date": "2021-12-26",
-      "copyright": "日光下的村落，英格兰东萨塞克斯郡 (© JohnnyPowell/iStock/Getty Images Plus)",
-      "jpg": "https://cn.bing.com/th?id=OHR.SalehurstChurch_ZH-CN6419013724_UHD.jpg",
-      "webp": "https://cn.bing.com/th?id=OHR.SalehurstChurch_ZH-CN6419013724_UHD.jpg",
-      "thumb": "https://cn.bing.com/th?id=OHR.SalehurstChurch_ZH-CN6419013724_400x240.jpg"
     }
   ],
   "page": 40,
   "pageSize": 42,
-  "total": 2006,
+  "total": 2007,
   "totalPages": 48,
   "hasMore": true
 }

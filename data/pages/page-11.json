@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "date": "2025-06-08",
+      "copyright": "Summit of Pine Mountain, Angeles National Forest, California (© Matthew Kuhns/TANDEM Stills + Motion)",
+      "jpg": "https://cn.bing.com/th?id=OHR.PacificCrestTrail_EN-US8903844619_UHD.jpg",
+      "webp": "https://cn.bing.com/th?id=OHR.PacificCrestTrail_EN-US8903844619_UHD.jpg",
+      "thumb": "https://cn.bing.com/th?id=OHR.PacificCrestTrail_EN-US8903844619_400x240.jpg"
+    },
+    {
       "date": "2025-06-07",
       "copyright": "Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)",
       "jpg": "https://cn.bing.com/th?id=OHR.NormandyBeach_EN-US8863709180_UHD.jpg",
@@ -286,18 +293,11 @@
       "jpg": "https://cn.bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_UHD.jpg",
       "webp": "https://cn.bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_UHD.jpg",
       "thumb": "https://cn.bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_400x240.jpg"
-    },
-    {
-      "date": "2025-04-27",
-      "copyright": "Grove of redwoods in Redwood National and State Parks, California (© Bob Pool/Getty Images)",
-      "jpg": "https://cn.bing.com/th?id=OHR.RedwoodGrove_EN-US3412092024_UHD.jpg",
-      "webp": "https://cn.bing.com/th?id=OHR.RedwoodGrove_EN-US3412092024_UHD.jpg",
-      "thumb": "https://cn.bing.com/th?id=OHR.RedwoodGrove_EN-US3412092024_400x240.jpg"
     }
   ],
   "page": 11,
   "pageSize": 42,
-  "total": 2006,
+  "total": 2007,
   "totalPages": 48,
   "hasMore": true
 }

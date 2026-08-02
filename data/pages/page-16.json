@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "date": "2024-11-10",
+      "copyright": "Shi Shi Beach in Olympic National Park, Washington (© T.M. Schultze/TANDEM Stills + Motion)",
+      "jpg": "https://cn.bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_UHD.jpg",
+      "webp": "https://cn.bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_UHD.jpg",
+      "thumb": "https://cn.bing.com/th?id=OHR.ShiShiBeach_EN-US4231457607_400x240.jpg"
+    },
+    {
       "date": "2024-11-09",
       "copyright": "Autumn sunrise over the National Mall, Washington, DC (© WLDavies/iStock/Getty Images Plus)",
       "jpg": "https://cn.bing.com/th?id=OHR.DCSunrise_EN-US2459275186_UHD.jpg",
@@ -286,18 +293,11 @@
       "jpg": "https://cn.bing.com/th?id=OHR.GiantSequoias_EN-US4034909984_UHD.jpg",
       "webp": "https://cn.bing.com/th?id=OHR.GiantSequoias_EN-US4034909984_UHD.jpg",
       "thumb": "https://cn.bing.com/th?id=OHR.GiantSequoias_EN-US4034909984_400x240.jpg"
-    },
-    {
-      "date": "2024-09-29",
-      "copyright": "Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)",
-      "jpg": "https://cn.bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg",
-      "webp": "https://cn.bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg",
-      "thumb": "https://cn.bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_400x240.jpg"
     }
   ],
   "page": 16,
   "pageSize": 42,
-  "total": 2006,
+  "total": 2007,
   "totalPages": 48,
   "hasMore": true
 }
